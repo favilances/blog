@@ -1,1 +1,1 @@
-# blog.favilances.com
+simple blog site
